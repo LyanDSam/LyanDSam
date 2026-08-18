@@ -1,5 +1,9 @@
 @echo off
-echo Copying user photos to assets folder...
+title Auto Copy Assets & Git Push
+echo =======================================================
+echo   Copying Profile Photos & Pushing to GitHub...
+echo =======================================================
 node copy_assets.js
-echo Done!
+echo.
+echo Done! Check your GitHub profile page.
 pause

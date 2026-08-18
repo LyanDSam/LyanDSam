@@ -10,26 +10,6 @@
 
 <br />
 
-<!-- Photo Gallery Section -->
-<div align="center">
-  <table border="0" style="border-collapse: separate; border-spacing: 20px;">
-    <tr>
-      <td align="center" valign="top" width="280" style="background: #1e1e2e; border: 2px solid #38bdf8; border-radius: 16px; padding: 14px;">
-        <img src="image/IMG_20260818_100035_571%40-1382031900.jpg" width="250" style="border-radius: 12px; max-height: 380px; object-fit: cover;" alt="Sam & Friend - Cafe Vibe" />
-        <br /><br />
-        <font face="Fira Code" color="#38bdf8"><b>☕ Chill Vibe & Good Times</b></font>
-      </td>
-      <td align="center" valign="top" width="280" style="background: #1e1e2e; border: 2px solid #ec4899; border-radius: 16px; padding: 14px;">
-        <img src="image/IMG_20260718_080747_640.jpg" width="250" style="border-radius: 12px; max-height: 380px; object-fit: cover;" alt="Music - Conan Gray Moths" />
-        <br /><br />
-        <font face="Fira Code" color="#ec4899"><b>🎵 Moths by Conan Gray</b></font>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
 <!-- About Me Section -->
 <div align="left">
   <h2><font face="Fira Code" color="#38bdf8">🌿 About Me</font></h2>
@@ -161,6 +141,24 @@
   <a href="https://open.spotify.com/user/31z3fvqy6tczmiv3h3mb3nnqa5tm" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z3fvqy6tczmiv3h3mb3nnqa5tm&count=5&unique=false" alt="Spotify Recently Played" />
   </a>
+</div>
+
+<br />
+
+<!-- Photo Gallery Section (Moved to bottom, clean grid without text) -->
+<div align="center">
+  <h2><font face="Fira Code" color="#38bdf8">📸 Gallery</font></h2>
+  <br />
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="image/IMG_20260818_100035_571%40-1382031900.jpg" width="280" height="360" style="border-radius: 16px; object-fit: cover; border: 2px solid #38bdf8;" alt="Gallery Photo 1" />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="image/IMG_20260718_080747_640.jpg" width="280" height="360" style="border-radius: 16px; object-fit: cover; border: 2px solid #ec4899;" alt="Gallery Photo 2" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />

@@ -1,7 +1,9 @@
+<!-- TOP ANIMATED HEADER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&reversal=false&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Web%20Developer%20%7C%20Creative%20Coder%20%7C%20Music%20Lover&descSize=18&descAlign=50&descAlignY=62&theme=cyberpunk&stroke=-" alt="Header Banner" />
 </div>
 
+<!-- ANIMATED TYPING SVG INTRO -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Sam+(LyanDSam);Full-Stack+Web+Developer;Building+modern+apps+with+React+%26+Next.js;Passionate+about+UI%2FUX+%26+Clean+Code;Music+Lover+%7C+Conan+Gray+Fan" alt="Typing SVG" />
@@ -10,9 +12,14 @@
 
 <br />
 
-<!-- About Me Section -->
+<!-- SECTION 1: ABOUT ME -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=🌿%20ABOUT%20ME&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="380" alt="About Me Header" />
+</div>
+
+<br />
+
 <div align="left">
-  <h2><font face="Fira Code" color="#38bdf8">🌿 About Me</font></h2>
   <p><font face="Fira Code" size="3">
     🎯 <b>Focus:</b> Building high-performance, responsive web applications that solve real-world problems.<br />
     💡 <b>Passions:</b> Modern frontend architectures, interactive UI/UX, React, and Next.js.<br />
@@ -24,12 +31,22 @@
   </font></p>
 </div>
 
+<!-- ANIMATED DEV QUOTE WIDGET -->
+<div align="center">
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyberpunk" alt="Dev Quote" />
+</div>
+
 <br />
 
-<!-- Tech Stack & Skills Section -->
+<!-- SECTION 2: TECH STACK & SKILLS -->
 <div align="center">
-  <h2><font face="Fira Code" color="#ec4899">🚀 Tech Stack & Skills</font></h2>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=🚀%20TECH%20STACK%20%26%20SKILLS&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="420" alt="Tech Stack Header" />
+</div>
 
+<br />
+
+<div align="center">
   <!-- Languages -->
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -56,7 +73,7 @@
 
   <br />
 
-  <!-- DevIcons Row -->
+  <!-- Animated DevIcons Row -->
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5" />
     &nbsp;&nbsp;
@@ -82,9 +99,10 @@
 
 <br />
 
-<!-- Trophies Section -->
+<!-- SECTION 3: GITHUB TROPHIES -->
 <div align="center">
-  <h2><font face="Fira Code" color="#a855f7">🏆 GitHub Trophies</font></h2>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=🏆%20GITHUB%20TROPHIES&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="380" alt="Trophies Header" />
+  <br /><br />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=LyanDSam&theme=cyberpunk&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
   </a>
@@ -92,11 +110,12 @@
 
 <br />
 
-<!-- Animated Contribution Graph -->
+<!-- SECTION 4: CONTRIBUTION SNAKE & ARCADE -->
 <div align="center">
-  <h2><font face="Fira Code" color="#10b981">🎮 Contribution Snake & Arcade</font></h2>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=🎮%20CONTRIBUTION%20SNAKE%20%26%20ARCADE&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="480" alt="Arcade Header" />
+  <br /><br />
   
-  <!-- Snake Eating Contributions Animation -->
+  <!-- Animated Snake eating contributions -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LyanDSam/LyanDSam/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LyanDSam/LyanDSam/output/github-contribution-grid-snake.svg" />
@@ -105,7 +124,7 @@
 
   <br /><br />
 
-  <!-- Pacman Contribution Animation -->
+  <!-- Animated Pacman contribution graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LyanDSam/LyanDSam/pacman-output/pacman-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LyanDSam/LyanDSam/pacman-output/pacman-contribution-graph.svg" />
@@ -115,9 +134,17 @@
 
 <br />
 
-<!-- Dynamic Stats Cards -->
+<!-- SECTION 5: GITHUB STATS & ACTIVITY -->
 <div align="center">
-  <h2><font face="Fira Code" color="#38bdf8">📊 GitHub Stats & Activity</font></h2>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=📊%20GITHUB%20STATISTICS&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="420" alt="Stats Header" />
+  <br /><br />
+
+  <!-- Animated Activity Graph Chart -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LyanDSam&theme=react-dark&bg_color=0f172a&color=38bdf8&line=ec4899&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  </p>
+
+  <br />
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LyanDSam&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
@@ -132,9 +159,10 @@
 
 <br />
 
-<!-- Spotify / Music Corner -->
+<!-- SECTION 6: SPOTIFY & MUSIC -->
 <div align="center">
-  <h2><font face="Fira Code" color="#ec4899">🎵 Music is My Life</font></h2>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=🎵%20MUSIC%20IS%20MY%20LIFE&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="400" alt="Music Header" />
+  <br /><br />
   
   <p><font face="Fira Code" color="#94a3b8"><i>"Music fuels my daily coding sessions 🎧"</i></font></p>
   
@@ -145,10 +173,11 @@
 
 <br />
 
-<!-- Photo Gallery Section (Moved to bottom, clean grid without text) -->
+<!-- SECTION 7: PHOTO GALLERY -->
 <div align="center">
-  <h2><font face="Fira Code" color="#38bdf8">📸 Gallery</font></h2>
-  <br />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=📸%20PHOTO%20GALLERY&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="380" alt="Gallery Header" />
+  <br /><br />
+
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" style="padding: 10px;">
@@ -163,7 +192,7 @@
 
 <br />
 
-<!-- Animated Footer Banner -->
+<!-- FOOTER BANNER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&theme=cyberpunk" alt="Footer Banner" />
 </div>

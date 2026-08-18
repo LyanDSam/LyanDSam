@@ -14,7 +14,7 @@
 
 <!-- SECTION 1: ABOUT ME -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=🌿%20ABOUT%20ME&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="380" alt="About Me Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=ABOUT%20ME&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="380" alt="About Me Header" />
 </div>
 
 <br />
@@ -41,7 +41,7 @@
 
 <!-- SECTION 2: TECH STACK & SKILLS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=🚀%20TECH%20STACK%20%26%20SKILLS&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="420" alt="Tech Stack Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=TECH%20STACK%20AND%20SKILLS&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="420" alt="Tech Stack Header" />
 </div>
 
 <br />
@@ -99,20 +99,9 @@
 
 <br />
 
-<!-- SECTION 3: GITHUB TROPHIES -->
+<!-- SECTION 3: CONTRIBUTION SNAKE & ARCADE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=🏆%20GITHUB%20TROPHIES&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="380" alt="Trophies Header" />
-  <br /><br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LyanDSam&theme=cyberpunk&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br />
-
-<!-- SECTION 4: CONTRIBUTION SNAKE & ARCADE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=🎮%20CONTRIBUTION%20SNAKE%20%26%20ARCADE&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="480" alt="Arcade Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=CONTRIBUTION%20SNAKE%20AND%20ARCADE&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="480" alt="Arcade Header" />
   <br /><br />
   
   <!-- Animated Snake eating contributions -->
@@ -134,9 +123,9 @@
 
 <br />
 
-<!-- SECTION 5: GITHUB STATS & ACTIVITY -->
+<!-- SECTION 4: GITHUB STATS & ACTIVITY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=📊%20GITHUB%20STATISTICS&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="420" alt="Stats Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=GITHUB%20STATISTICS&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="420" alt="Stats Header" />
   <br /><br />
 
   <!-- Animated Activity Graph Chart -->
@@ -147,21 +136,21 @@
   <br />
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LyanDSam&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LyanDSam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
     &nbsp;
-    <img src="https://streak-stats.demolab.com?user=LyanDSam&theme=cyberpunk&hide_border=true" height="165" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=LyanDSam&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak Stats" />
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyanDSam&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyanDSam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
   </p>
 </div>
 
 <br />
 
-<!-- SECTION 6: SPOTIFY & MUSIC -->
+<!-- SECTION 5: SPOTIFY & MUSIC -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=🎵%20MUSIC%20IS%20MY%20LIFE&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="400" alt="Music Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=MUSIC%20CORNER&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="400" alt="Music Header" />
   <br /><br />
   
   <p><font face="Fira Code" color="#94a3b8"><i>"Music fuels my daily coding sessions 🎧"</i></font></p>
@@ -173,9 +162,9 @@
 
 <br />
 
-<!-- SECTION 7: PHOTO GALLERY -->
+<!-- SECTION 6: PHOTO GALLERY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=📸%20PHOTO%20GALLERY&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="380" alt="Gallery Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=60&section=header&text=PHOTO%20GALLERY&fontSize=22&fontColor=FFFFFF&theme=cyberpunk" width="380" alt="Gallery Header" />
   <br /><br />
 
   <table border="0" cellspacing="0" cellpadding="0">

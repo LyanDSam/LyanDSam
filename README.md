@@ -169,12 +169,6 @@
 
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="image/IMG_20260818_100035_571%40-1382031900.jpg" width="280" height="360" style="border-radius: 16px; object-fit: cover; border: 2px solid #38bdf8;" alt="Gallery Photo 1" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="image/IMG_20260718_080747_640.jpg" width="280" height="360" style="border-radius: 16px; object-fit: cover; border: 2px solid #ec4899;" alt="Gallery Photo 2" />
-      </td>
     </tr>
   </table>
 </div>
